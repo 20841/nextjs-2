@@ -1,7 +1,6 @@
 import { ArrowUpRight } from 'lucide-react'
 import Link from 'next/link'
-import { blogs } from '../../../../../constants'
-import BlogCard from '@/components/cards/blog'
+
 
 const Page = () => {
 	return (

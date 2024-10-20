@@ -67,21 +67,25 @@ export const blogs = [
 
 export const authors = [
 	 {
+		id: 'string',
 		name: 'Khaydarov',
 		image: '/author/dilshod-program.jpg',
 		title: 'Front End',
 	 },
 	 {
+		id: 'string',
 		name: 'LutfullaKhan',
 		image: '/author/lutfulla-khan.jpg',
 		title: 'Back End',
 	 },
 	 {
+		id: 'string',
 		name: 'MuhammadSaid',
 		image: '/author/Muhammad-Said.jpg',
 		title: 'Back End',
 	 },
 	 {
+		id: 'string',
 		name: 'Azizkhan',
 		image: '/author/aziz-khan.jpg',
 		title: 'Java',

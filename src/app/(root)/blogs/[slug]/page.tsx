@@ -7,7 +7,7 @@ import Link from 'next/link'
 
 
 
-const SlugPage = ({params}:{params: {slug: string}}) => {
+const SlugPage = () => {
 	return (
 		<div className='pt-[15vh] max-w-5xl mx-auto'>
 			<h1 className='lg:text-6xl md:text-5xl text-4xl font-creteRound'>
